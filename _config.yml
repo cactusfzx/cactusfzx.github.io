@@ -1,0 +1,8 @@
+title: Cactusfzx.GitHub.io
+description: this is for my own website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
